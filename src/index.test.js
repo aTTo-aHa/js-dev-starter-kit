@@ -1,6 +1,6 @@
 // Add assertion library
 // choose the expect assertion sytele.
-import {expect} from'chai';
+import {expect} from 'chai';
 import jsdom from 'jsdom';
 import fs from 'fs';
 
