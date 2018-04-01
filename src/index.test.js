@@ -1,7 +1,7 @@
-import expect from 'chai';
-import jsdom from 'jsdom';
-import fs from 'fs';
-
+//import {expect} from 'chai';
+//import jsdom from 'jsdom';
+//import fs from 'fs';
+/*
 describe('First test', ()=> {
   it('Should pass',()=>{
     expect(true).to.equal(true);
@@ -19,3 +19,4 @@ describe('index.html',()=>{
     });
   });
 });
+*/
